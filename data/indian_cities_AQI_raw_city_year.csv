@@ -1,0 +1,1331 @@
+City,State,Region,Year,AQI
+Agartala,Tripura,North-East,2016,96.6
+Agartala,Tripura,North-East,2017,95.7
+Agartala,Tripura,North-East,2018,94.7
+Agartala,Tripura,North-East,2019,95.4
+Agartala,Tripura,North-East,2020,74.8
+Agartala,Tripura,North-East,2021,86.8
+Agartala,Tripura,North-East,2022,93.6
+Agartala,Tripura,North-East,2023,91.8
+Agartala,Tripura,North-East,2024,90.8
+Agartala,Tripura,North-East,2025,89.9
+Agra,Uttar Pradesh,North,2016,190.8
+Agra,Uttar Pradesh,North,2017,181.3
+Agra,Uttar Pradesh,North,2018,184.9
+Agra,Uttar Pradesh,North,2019,180.8
+Agra,Uttar Pradesh,North,2020,141.3
+Agra,Uttar Pradesh,North,2021,170.5
+Agra,Uttar Pradesh,North,2022,179.6
+Agra,Uttar Pradesh,North,2023,168.0
+Agra,Uttar Pradesh,North,2024,165.9
+Agra,Uttar Pradesh,North,2025,169.1
+Ahmedabad,Gujarat,West,2016,138.8
+Ahmedabad,Gujarat,West,2017,131.7
+Ahmedabad,Gujarat,West,2018,135.1
+Ahmedabad,Gujarat,West,2019,131.5
+Ahmedabad,Gujarat,West,2020,105.8
+Ahmedabad,Gujarat,West,2021,123.6
+Ahmedabad,Gujarat,West,2022,130.8
+Ahmedabad,Gujarat,West,2023,124.3
+Ahmedabad,Gujarat,West,2024,129.7
+Ahmedabad,Gujarat,West,2025,124.8
+Aizawl,Mizoram,North-East,2016,52.2
+Aizawl,Mizoram,North-East,2017,52.9
+Aizawl,Mizoram,North-East,2018,51.8
+Aizawl,Mizoram,North-East,2019,50.9
+Aizawl,Mizoram,North-East,2020,42.0
+Aizawl,Mizoram,North-East,2021,47.4
+Aizawl,Mizoram,North-East,2022,51.1
+Aizawl,Mizoram,North-East,2023,49.9
+Aizawl,Mizoram,North-East,2024,49.8
+Aizawl,Mizoram,North-East,2025,50.1
+Ajmer,Rajasthan,North-West,2016,121.7
+Ajmer,Rajasthan,North-West,2017,120.4
+Ajmer,Rajasthan,North-West,2018,125.8
+Ajmer,Rajasthan,North-West,2019,120.0
+Ajmer,Rajasthan,North-West,2020,92.0
+Ajmer,Rajasthan,North-West,2021,112.0
+Ajmer,Rajasthan,North-West,2022,120.9
+Ajmer,Rajasthan,North-West,2023,120.8
+Ajmer,Rajasthan,North-West,2024,116.7
+Ajmer,Rajasthan,North-West,2025,122.6
+Aligarh,Uttar Pradesh,North,2016,172.2
+Aligarh,Uttar Pradesh,North,2017,166.4
+Aligarh,Uttar Pradesh,North,2018,169.3
+Aligarh,Uttar Pradesh,North,2019,164.1
+Aligarh,Uttar Pradesh,North,2020,133.5
+Aligarh,Uttar Pradesh,North,2021,156.2
+Aligarh,Uttar Pradesh,North,2022,161.8
+Aligarh,Uttar Pradesh,North,2023,163.2
+Aligarh,Uttar Pradesh,North,2024,163.7
+Aligarh,Uttar Pradesh,North,2025,169.5
+Alwar,Rajasthan,North-West,2016,144.5
+Alwar,Rajasthan,North-West,2017,145.9
+Alwar,Rajasthan,North-West,2018,142.1
+Alwar,Rajasthan,North-West,2019,140.5
+Alwar,Rajasthan,North-West,2020,110.7
+Alwar,Rajasthan,North-West,2021,130.1
+Alwar,Rajasthan,North-West,2022,134.9
+Alwar,Rajasthan,North-West,2023,135.3
+Alwar,Rajasthan,North-West,2024,137.0
+Alwar,Rajasthan,North-West,2025,128.3
+Amaravati,Andhra Pradesh,South,2016,85.9
+Amaravati,Andhra Pradesh,South,2017,88.9
+Amaravati,Andhra Pradesh,South,2018,87.8
+Amaravati,Andhra Pradesh,South,2019,86.1
+Amaravati,Andhra Pradesh,South,2020,67.8
+Amaravati,Andhra Pradesh,South,2021,76.6
+Amaravati,Andhra Pradesh,South,2022,83.2
+Amaravati,Andhra Pradesh,South,2023,80.0
+Amaravati,Andhra Pradesh,South,2024,82.5
+Amaravati,Andhra Pradesh,South,2025,81.8
+Ambala,Haryana,North,2016,144.0
+Ambala,Haryana,North,2017,140.5
+Ambala,Haryana,North,2018,141.6
+Ambala,Haryana,North,2019,133.0
+Ambala,Haryana,North,2020,109.1
+Ambala,Haryana,North,2021,126.6
+Ambala,Haryana,North,2022,133.3
+Ambala,Haryana,North,2023,131.7
+Ambala,Haryana,North,2024,127.6
+Ambala,Haryana,North,2025,133.3
+Amritsar,Punjab,North,2016,155.0
+Amritsar,Punjab,North,2017,150.4
+Amritsar,Punjab,North,2018,146.0
+Amritsar,Punjab,North,2019,141.2
+Amritsar,Punjab,North,2020,117.9
+Amritsar,Punjab,North,2021,135.0
+Amritsar,Punjab,North,2022,135.0
+Amritsar,Punjab,North,2023,141.2
+Amritsar,Punjab,North,2024,134.2
+Amritsar,Punjab,North,2025,136.0
+Ankleshwar,Gujarat,West,2016,131.8
+Ankleshwar,Gujarat,West,2017,133.5
+Ankleshwar,Gujarat,West,2018,132.9
+Ankleshwar,Gujarat,West,2019,129.4
+Ankleshwar,Gujarat,West,2020,104.2
+Ankleshwar,Gujarat,West,2021,117.2
+Ankleshwar,Gujarat,West,2022,127.2
+Ankleshwar,Gujarat,West,2023,124.2
+Ankleshwar,Gujarat,West,2024,125.6
+Ankleshwar,Gujarat,West,2025,129.5
+Arrah,Bihar,East,2016,178.5
+Arrah,Bihar,East,2017,174.1
+Arrah,Bihar,East,2018,176.8
+Arrah,Bihar,East,2019,172.8
+Arrah,Bihar,East,2020,137.5
+Arrah,Bihar,East,2021,163.2
+Arrah,Bihar,East,2022,176.6
+Arrah,Bihar,East,2023,174.2
+Arrah,Bihar,East,2024,170.1
+Arrah,Bihar,East,2025,170.5
+Asansol,West Bengal,East,2016,156.5
+Asansol,West Bengal,East,2017,151.6
+Asansol,West Bengal,East,2018,153.2
+Asansol,West Bengal,East,2019,151.2
+Asansol,West Bengal,East,2020,116.3
+Asansol,West Bengal,East,2021,142.0
+Asansol,West Bengal,East,2022,151.6
+Asansol,West Bengal,East,2023,151.1
+Asansol,West Bengal,East,2024,147.9
+Asansol,West Bengal,East,2025,145.8
+Aurangabad,Maharashtra,West,2016,102.1
+Aurangabad,Maharashtra,West,2017,102.2
+Aurangabad,Maharashtra,West,2018,104.9
+Aurangabad,Maharashtra,West,2019,101.9
+Aurangabad,Maharashtra,West,2020,79.7
+Aurangabad,Maharashtra,West,2021,93.4
+Aurangabad,Maharashtra,West,2022,103.3
+Aurangabad,Maharashtra,West,2023,101.2
+Aurangabad,Maharashtra,West,2024,98.3
+Aurangabad,Maharashtra,West,2025,97.4
+Baddi,Himachal Pradesh,North,2016,140.7
+Baddi,Himachal Pradesh,North,2017,132.6
+Baddi,Himachal Pradesh,North,2018,134.7
+Baddi,Himachal Pradesh,North,2019,130.8
+Baddi,Himachal Pradesh,North,2020,103.3
+Baddi,Himachal Pradesh,North,2021,122.2
+Baddi,Himachal Pradesh,North,2022,128.8
+Baddi,Himachal Pradesh,North,2023,125.0
+Baddi,Himachal Pradesh,North,2024,128.4
+Baddi,Himachal Pradesh,North,2025,124.8
+Baghpat,Uttar Pradesh,North,2016,191.6
+Baghpat,Uttar Pradesh,North,2017,187.5
+Baghpat,Uttar Pradesh,North,2018,186.8
+Baghpat,Uttar Pradesh,North,2019,185.0
+Baghpat,Uttar Pradesh,North,2020,149.9
+Baghpat,Uttar Pradesh,North,2021,173.1
+Baghpat,Uttar Pradesh,North,2022,182.8
+Baghpat,Uttar Pradesh,North,2023,187.7
+Baghpat,Uttar Pradesh,North,2024,190.2
+Baghpat,Uttar Pradesh,North,2025,184.8
+Bahadurgarh,Haryana,North,2016,193.7
+Bahadurgarh,Haryana,North,2017,192.1
+Bahadurgarh,Haryana,North,2018,188.8
+Bahadurgarh,Haryana,North,2019,188.3
+Bahadurgarh,Haryana,North,2020,148.0
+Bahadurgarh,Haryana,North,2021,170.8
+Bahadurgarh,Haryana,North,2022,177.2
+Bahadurgarh,Haryana,North,2023,181.6
+Bahadurgarh,Haryana,North,2024,174.5
+Bahadurgarh,Haryana,North,2025,173.8
+Bareilly,Uttar Pradesh,North,2016,172.9
+Bareilly,Uttar Pradesh,North,2017,164.6
+Bareilly,Uttar Pradesh,North,2018,167.2
+Bareilly,Uttar Pradesh,North,2019,171.3
+Bareilly,Uttar Pradesh,North,2020,131.8
+Bareilly,Uttar Pradesh,North,2021,152.4
+Bareilly,Uttar Pradesh,North,2022,162.9
+Bareilly,Uttar Pradesh,North,2023,164.8
+Bareilly,Uttar Pradesh,North,2024,156.4
+Bareilly,Uttar Pradesh,North,2025,159.4
+Bathinda,Punjab,North,2016,140.8
+Bathinda,Punjab,North,2017,143.8
+Bathinda,Punjab,North,2018,144.9
+Bathinda,Punjab,North,2019,140.4
+Bathinda,Punjab,North,2020,110.7
+Bathinda,Punjab,North,2021,130.1
+Bathinda,Punjab,North,2022,142.3
+Bathinda,Punjab,North,2023,144.1
+Bathinda,Punjab,North,2024,138.8
+Bathinda,Punjab,North,2025,139.0
+Begusarai,Bihar,East,2016,184.7
+Begusarai,Bihar,East,2017,189.6
+Begusarai,Bihar,East,2018,184.4
+Begusarai,Bihar,East,2019,184.9
+Begusarai,Bihar,East,2020,150.8
+Begusarai,Bihar,East,2021,168.8
+Begusarai,Bihar,East,2022,184.6
+Begusarai,Bihar,East,2023,180.2
+Begusarai,Bihar,East,2024,179.7
+Begusarai,Bihar,East,2025,178.4
+Belagavi,Karnataka,South,2016,73.2
+Belagavi,Karnataka,South,2017,71.5
+Belagavi,Karnataka,South,2018,71.6
+Belagavi,Karnataka,South,2019,68.4
+Belagavi,Karnataka,South,2020,54.7
+Belagavi,Karnataka,South,2021,64.9
+Belagavi,Karnataka,South,2022,68.7
+Belagavi,Karnataka,South,2023,65.8
+Belagavi,Karnataka,South,2024,64.8
+Belagavi,Karnataka,South,2025,64.2
+Bengaluru,Karnataka,South,2016,86.2
+Bengaluru,Karnataka,South,2017,84.3
+Bengaluru,Karnataka,South,2018,83.6
+Bengaluru,Karnataka,South,2019,82.5
+Bengaluru,Karnataka,South,2020,64.4
+Bengaluru,Karnataka,South,2021,75.1
+Bengaluru,Karnataka,South,2022,80.7
+Bengaluru,Karnataka,South,2023,78.1
+Bengaluru,Karnataka,South,2024,77.2
+Bengaluru,Karnataka,South,2025,76.8
+Bhagalpur,Bihar,East,2016,176.1
+Bhagalpur,Bihar,East,2017,172.6
+Bhagalpur,Bihar,East,2018,175.4
+Bhagalpur,Bihar,East,2019,169.8
+Bhagalpur,Bihar,East,2020,136.5
+Bhagalpur,Bihar,East,2021,158.4
+Bhagalpur,Bihar,East,2022,165.4
+Bhagalpur,Bihar,East,2023,164.5
+Bhagalpur,Bihar,East,2024,165.8
+Bhagalpur,Bihar,East,2025,161.3
+Bhilai,Chhattisgarh,Central,2016,130.2
+Bhilai,Chhattisgarh,Central,2017,128.1
+Bhilai,Chhattisgarh,Central,2018,128.2
+Bhilai,Chhattisgarh,Central,2019,125.4
+Bhilai,Chhattisgarh,Central,2020,98.9
+Bhilai,Chhattisgarh,Central,2021,117.2
+Bhilai,Chhattisgarh,Central,2022,126.2
+Bhilai,Chhattisgarh,Central,2023,121.3
+Bhilai,Chhattisgarh,Central,2024,121.4
+Bhilai,Chhattisgarh,Central,2025,124.2
+Bhiwadi,Rajasthan,North-West,2016,214.8
+Bhiwadi,Rajasthan,North-West,2017,216.8
+Bhiwadi,Rajasthan,North-West,2018,210.2
+Bhiwadi,Rajasthan,North-West,2019,205.4
+Bhiwadi,Rajasthan,North-West,2020,160.6
+Bhiwadi,Rajasthan,North-West,2021,192.6
+Bhiwadi,Rajasthan,North-West,2022,204.4
+Bhiwadi,Rajasthan,North-West,2023,204.6
+Bhiwadi,Rajasthan,North-West,2024,196.2
+Bhiwadi,Rajasthan,North-West,2025,191.2
+Bhopal,Madhya Pradesh,Central,2016,127.1
+Bhopal,Madhya Pradesh,Central,2017,122.8
+Bhopal,Madhya Pradesh,Central,2018,122.1
+Bhopal,Madhya Pradesh,Central,2019,120.1
+Bhopal,Madhya Pradesh,Central,2020,97.6
+Bhopal,Madhya Pradesh,Central,2021,111.8
+Bhopal,Madhya Pradesh,Central,2022,121.6
+Bhopal,Madhya Pradesh,Central,2023,118.8
+Bhopal,Madhya Pradesh,Central,2024,119.5
+Bhopal,Madhya Pradesh,Central,2025,118.6
+Bhubaneswar,Odisha,East,2016,107.2
+Bhubaneswar,Odisha,East,2017,108.1
+Bhubaneswar,Odisha,East,2018,105.8
+Bhubaneswar,Odisha,East,2019,104.1
+Bhubaneswar,Odisha,East,2020,80.1
+Bhubaneswar,Odisha,East,2021,97.1
+Bhubaneswar,Odisha,East,2022,102.2
+Bhubaneswar,Odisha,East,2023,99.3
+Bhubaneswar,Odisha,East,2024,100.7
+Bhubaneswar,Odisha,East,2025,102.2
+Bikaner,Rajasthan,North-West,2016,132.8
+Bikaner,Rajasthan,North-West,2017,134.2
+Bikaner,Rajasthan,North-West,2018,128.1
+Bikaner,Rajasthan,North-West,2019,135.8
+Bikaner,Rajasthan,North-West,2020,106.4
+Bikaner,Rajasthan,North-West,2021,124.5
+Bikaner,Rajasthan,North-West,2022,132.9
+Bikaner,Rajasthan,North-West,2023,129.1
+Bikaner,Rajasthan,North-West,2024,130.9
+Bikaner,Rajasthan,North-West,2025,130.1
+Bilaspur,Chhattisgarh,Central,2016,117.2
+Bilaspur,Chhattisgarh,Central,2017,119.7
+Bilaspur,Chhattisgarh,Central,2018,119.8
+Bilaspur,Chhattisgarh,Central,2019,111.6
+Bilaspur,Chhattisgarh,Central,2020,91.2
+Bilaspur,Chhattisgarh,Central,2021,110.9
+Bilaspur,Chhattisgarh,Central,2022,117.4
+Bilaspur,Chhattisgarh,Central,2023,117.8
+Bilaspur,Chhattisgarh,Central,2024,110.7
+Bilaspur,Chhattisgarh,Central,2025,110.5
+Bokaro,Jharkhand,East,2016,129.8
+Bokaro,Jharkhand,East,2017,128.6
+Bokaro,Jharkhand,East,2018,126.5
+Bokaro,Jharkhand,East,2019,121.2
+Bokaro,Jharkhand,East,2020,98.6
+Bokaro,Jharkhand,East,2021,116.8
+Bokaro,Jharkhand,East,2022,128.8
+Bokaro,Jharkhand,East,2023,120.8
+Bokaro,Jharkhand,East,2024,121.9
+Bokaro,Jharkhand,East,2025,120.0
+Bulandshahr,Uttar Pradesh,North,2016,198.2
+Bulandshahr,Uttar Pradesh,North,2017,193.3
+Bulandshahr,Uttar Pradesh,North,2018,187.8
+Bulandshahr,Uttar Pradesh,North,2019,180.8
+Bulandshahr,Uttar Pradesh,North,2020,150.4
+Bulandshahr,Uttar Pradesh,North,2021,173.7
+Bulandshahr,Uttar Pradesh,North,2022,181.2
+Bulandshahr,Uttar Pradesh,North,2023,187.1
+Bulandshahr,Uttar Pradesh,North,2024,175.6
+Bulandshahr,Uttar Pradesh,North,2025,178.2
+Byrnihat,Meghalaya,North-East,2016,165.9
+Byrnihat,Meghalaya,North-East,2017,163.8
+Byrnihat,Meghalaya,North-East,2018,162.6
+Byrnihat,Meghalaya,North-East,2019,163.3
+Byrnihat,Meghalaya,North-East,2020,128.2
+Byrnihat,Meghalaya,North-East,2021,154.5
+Byrnihat,Meghalaya,North-East,2022,158.0
+Byrnihat,Meghalaya,North-East,2023,163.1
+Byrnihat,Meghalaya,North-East,2024,159.2
+Byrnihat,Meghalaya,North-East,2025,158.8
+Chandigarh,Chandigarh,North,2016,121.7
+Chandigarh,Chandigarh,North,2017,122.7
+Chandigarh,Chandigarh,North,2018,120.2
+Chandigarh,Chandigarh,North,2019,117.2
+Chandigarh,Chandigarh,North,2020,94.6
+Chandigarh,Chandigarh,North,2021,113.2
+Chandigarh,Chandigarh,North,2022,120.8
+Chandigarh,Chandigarh,North,2023,123.1
+Chandigarh,Chandigarh,North,2024,118.6
+Chandigarh,Chandigarh,North,2025,125.7
+Chandrapur,Maharashtra,West,2016,123.2
+Chandrapur,Maharashtra,West,2017,120.7
+Chandrapur,Maharashtra,West,2018,124.3
+Chandrapur,Maharashtra,West,2019,120.1
+Chandrapur,Maharashtra,West,2020,93.6
+Chandrapur,Maharashtra,West,2021,112.1
+Chandrapur,Maharashtra,West,2022,116.4
+Chandrapur,Maharashtra,West,2023,116.3
+Chandrapur,Maharashtra,West,2024,114.3
+Chandrapur,Maharashtra,West,2025,111.2
+Chennai,Tamil Nadu,South,2016,82.7
+Chennai,Tamil Nadu,South,2017,80.0
+Chennai,Tamil Nadu,South,2018,80.0
+Chennai,Tamil Nadu,South,2019,80.3
+Chennai,Tamil Nadu,South,2020,62.5
+Chennai,Tamil Nadu,South,2021,74.2
+Chennai,Tamil Nadu,South,2022,79.1
+Chennai,Tamil Nadu,South,2023,74.8
+Chennai,Tamil Nadu,South,2024,77.3
+Chennai,Tamil Nadu,South,2025,73.9
+Coimbatore,Tamil Nadu,South,2016,73.1
+Coimbatore,Tamil Nadu,South,2017,72.9
+Coimbatore,Tamil Nadu,South,2018,73.8
+Coimbatore,Tamil Nadu,South,2019,70.3
+Coimbatore,Tamil Nadu,South,2020,53.9
+Coimbatore,Tamil Nadu,South,2021,66.0
+Coimbatore,Tamil Nadu,South,2022,69.1
+Coimbatore,Tamil Nadu,South,2023,67.3
+Coimbatore,Tamil Nadu,South,2024,67.5
+Coimbatore,Tamil Nadu,South,2025,66.6
+Cuttack,Odisha,East,2016,112.2
+Cuttack,Odisha,East,2017,111.0
+Cuttack,Odisha,East,2018,109.6
+Cuttack,Odisha,East,2019,107.3
+Cuttack,Odisha,East,2020,85.5
+Cuttack,Odisha,East,2021,100.4
+Cuttack,Odisha,East,2022,106.3
+Cuttack,Odisha,East,2023,103.5
+Cuttack,Odisha,East,2024,104.8
+Cuttack,Odisha,East,2025,105.2
+Darbhanga,Bihar,East,2016,181.6
+Darbhanga,Bihar,East,2017,172.1
+Darbhanga,Bihar,East,2018,181.3
+Darbhanga,Bihar,East,2019,178.3
+Darbhanga,Bihar,East,2020,140.7
+Darbhanga,Bihar,East,2021,162.4
+Darbhanga,Bihar,East,2022,173.8
+Darbhanga,Bihar,East,2023,176.0
+Darbhanga,Bihar,East,2024,169.9
+Darbhanga,Bihar,East,2025,170.3
+Dehradun,Uttarakhand,North,2016,118.3
+Dehradun,Uttarakhand,North,2017,112.2
+Dehradun,Uttarakhand,North,2018,111.2
+Dehradun,Uttarakhand,North,2019,114.3
+Dehradun,Uttarakhand,North,2020,88.2
+Dehradun,Uttarakhand,North,2021,103.7
+Dehradun,Uttarakhand,North,2022,112.0
+Dehradun,Uttarakhand,North,2023,113.8
+Dehradun,Uttarakhand,North,2024,107.8
+Dehradun,Uttarakhand,North,2025,110.6
+Delhi,Delhi,North,2016,229.2
+Delhi,Delhi,North,2017,229.2
+Delhi,Delhi,North,2018,233.1
+Delhi,Delhi,North,2019,225.2
+Delhi,Delhi,North,2020,178.3
+Delhi,Delhi,North,2021,209.5
+Delhi,Delhi,North,2022,225.4
+Delhi,Delhi,North,2023,223.8
+Delhi,Delhi,North,2024,216.2
+Delhi,Delhi,North,2025,219.5
+Dewas,Madhya Pradesh,Central,2016,106.1
+Dewas,Madhya Pradesh,Central,2017,103.8
+Dewas,Madhya Pradesh,Central,2018,102.8
+Dewas,Madhya Pradesh,Central,2019,101.9
+Dewas,Madhya Pradesh,Central,2020,80.2
+Dewas,Madhya Pradesh,Central,2021,97.4
+Dewas,Madhya Pradesh,Central,2022,101.2
+Dewas,Madhya Pradesh,Central,2023,98.6
+Dewas,Madhya Pradesh,Central,2024,98.3
+Dewas,Madhya Pradesh,Central,2025,99.6
+Dhanbad,Jharkhand,East,2016,160.0
+Dhanbad,Jharkhand,East,2017,156.8
+Dhanbad,Jharkhand,East,2018,150.8
+Dhanbad,Jharkhand,East,2019,146.3
+Dhanbad,Jharkhand,East,2020,116.2
+Dhanbad,Jharkhand,East,2021,133.7
+Dhanbad,Jharkhand,East,2022,146.7
+Dhanbad,Jharkhand,East,2023,142.8
+Dhanbad,Jharkhand,East,2024,144.1
+Dhanbad,Jharkhand,East,2025,145.8
+Durgapur,West Bengal,East,2016,147.2
+Durgapur,West Bengal,East,2017,146.8
+Durgapur,West Bengal,East,2018,146.7
+Durgapur,West Bengal,East,2019,146.1
+Durgapur,West Bengal,East,2020,112.6
+Durgapur,West Bengal,East,2021,133.3
+Durgapur,West Bengal,East,2022,140.9
+Durgapur,West Bengal,East,2023,139.6
+Durgapur,West Bengal,East,2024,136.6
+Durgapur,West Bengal,East,2025,139.2
+Faridabad,Haryana,North,2016,215.3
+Faridabad,Haryana,North,2017,215.3
+Faridabad,Haryana,North,2018,205.0
+Faridabad,Haryana,North,2019,207.8
+Faridabad,Haryana,North,2020,164.0
+Faridabad,Haryana,North,2021,196.5
+Faridabad,Haryana,North,2022,205.7
+Faridabad,Haryana,North,2023,200.7
+Faridabad,Haryana,North,2024,199.6
+Faridabad,Haryana,North,2025,198.2
+Gandhinagar,Gujarat,West,2016,106.6
+Gandhinagar,Gujarat,West,2017,105.2
+Gandhinagar,Gujarat,West,2018,108.1
+Gandhinagar,Gujarat,West,2019,105.5
+Gandhinagar,Gujarat,West,2020,85.7
+Gandhinagar,Gujarat,West,2021,96.5
+Gandhinagar,Gujarat,West,2022,105.9
+Gandhinagar,Gujarat,West,2023,101.2
+Gandhinagar,Gujarat,West,2024,101.8
+Gandhinagar,Gujarat,West,2025,101.3
+Gaya,Bihar,East,2016,189.2
+Gaya,Bihar,East,2017,186.4
+Gaya,Bihar,East,2018,174.8
+Gaya,Bihar,East,2019,178.5
+Gaya,Bihar,East,2020,143.2
+Gaya,Bihar,East,2021,159.0
+Gaya,Bihar,East,2022,171.8
+Gaya,Bihar,East,2023,171.6
+Gaya,Bihar,East,2024,164.2
+Gaya,Bihar,East,2025,169.1
+Ghaziabad,Uttar Pradesh,North,2016,244.8
+Ghaziabad,Uttar Pradesh,North,2017,241.2
+Ghaziabad,Uttar Pradesh,North,2018,242.3
+Ghaziabad,Uttar Pradesh,North,2019,228.7
+Ghaziabad,Uttar Pradesh,North,2020,181.9
+Ghaziabad,Uttar Pradesh,North,2021,219.6
+Ghaziabad,Uttar Pradesh,North,2022,237.1
+Ghaziabad,Uttar Pradesh,North,2023,223.6
+Ghaziabad,Uttar Pradesh,North,2024,219.9
+Ghaziabad,Uttar Pradesh,North,2025,223.6
+Gorakhpur,Uttar Pradesh,North,2016,166.5
+Gorakhpur,Uttar Pradesh,North,2017,161.1
+Gorakhpur,Uttar Pradesh,North,2018,160.9
+Gorakhpur,Uttar Pradesh,North,2019,158.4
+Gorakhpur,Uttar Pradesh,North,2020,127.9
+Gorakhpur,Uttar Pradesh,North,2021,150.3
+Gorakhpur,Uttar Pradesh,North,2022,155.6
+Gorakhpur,Uttar Pradesh,North,2023,155.6
+Gorakhpur,Uttar Pradesh,North,2024,148.5
+Gorakhpur,Uttar Pradesh,North,2025,150.3
+Greater Noida,Uttar Pradesh,North,2016,217.8
+Greater Noida,Uttar Pradesh,North,2017,210.1
+Greater Noida,Uttar Pradesh,North,2018,209.4
+Greater Noida,Uttar Pradesh,North,2019,210.6
+Greater Noida,Uttar Pradesh,North,2020,165.7
+Greater Noida,Uttar Pradesh,North,2021,190.6
+Greater Noida,Uttar Pradesh,North,2022,200.2
+Greater Noida,Uttar Pradesh,North,2023,199.0
+Greater Noida,Uttar Pradesh,North,2024,199.7
+Greater Noida,Uttar Pradesh,North,2025,191.6
+Gurugram,Haryana,North,2016,208.5
+Gurugram,Haryana,North,2017,201.0
+Gurugram,Haryana,North,2018,211.2
+Gurugram,Haryana,North,2019,203.7
+Gurugram,Haryana,North,2020,169.9
+Gurugram,Haryana,North,2021,190.1
+Gurugram,Haryana,North,2022,194.8
+Gurugram,Haryana,North,2023,200.8
+Gurugram,Haryana,North,2024,201.0
+Gurugram,Haryana,North,2025,201.2
+Guwahati,Assam,North-East,2016,117.8
+Guwahati,Assam,North-East,2017,121.6
+Guwahati,Assam,North-East,2018,117.8
+Guwahati,Assam,North-East,2019,114.2
+Guwahati,Assam,North-East,2020,91.7
+Guwahati,Assam,North-East,2021,110.1
+Guwahati,Assam,North-East,2022,108.9
+Guwahati,Assam,North-East,2023,111.7
+Guwahati,Assam,North-East,2024,109.6
+Guwahati,Assam,North-East,2025,111.1
+Gwalior,Madhya Pradesh,Central,2016,162.0
+Gwalior,Madhya Pradesh,Central,2017,166.2
+Gwalior,Madhya Pradesh,Central,2018,153.2
+Gwalior,Madhya Pradesh,Central,2019,155.6
+Gwalior,Madhya Pradesh,Central,2020,121.9
+Gwalior,Madhya Pradesh,Central,2021,144.0
+Gwalior,Madhya Pradesh,Central,2022,146.8
+Gwalior,Madhya Pradesh,Central,2023,154.0
+Gwalior,Madhya Pradesh,Central,2024,152.4
+Gwalior,Madhya Pradesh,Central,2025,144.9
+Haldia,West Bengal,East,2016,120.8
+Haldia,West Bengal,East,2017,125.7
+Haldia,West Bengal,East,2018,123.1
+Haldia,West Bengal,East,2019,116.6
+Haldia,West Bengal,East,2020,95.2
+Haldia,West Bengal,East,2021,109.8
+Haldia,West Bengal,East,2022,118.0
+Haldia,West Bengal,East,2023,117.7
+Haldia,West Bengal,East,2024,115.7
+Haldia,West Bengal,East,2025,114.9
+Hapur,Uttar Pradesh,North,2016,192.2
+Hapur,Uttar Pradesh,North,2017,195.2
+Hapur,Uttar Pradesh,North,2018,190.4
+Hapur,Uttar Pradesh,North,2019,183.2
+Hapur,Uttar Pradesh,North,2020,151.0
+Hapur,Uttar Pradesh,North,2021,174.5
+Hapur,Uttar Pradesh,North,2022,188.6
+Hapur,Uttar Pradesh,North,2023,184.3
+Hapur,Uttar Pradesh,North,2024,188.8
+Hapur,Uttar Pradesh,North,2025,181.8
+Haridwar,Uttarakhand,North,2016,129.6
+Haridwar,Uttarakhand,North,2017,130.0
+Haridwar,Uttarakhand,North,2018,124.3
+Haridwar,Uttarakhand,North,2019,123.7
+Haridwar,Uttarakhand,North,2020,95.2
+Haridwar,Uttarakhand,North,2021,117.2
+Haridwar,Uttarakhand,North,2022,122.1
+Haridwar,Uttarakhand,North,2023,122.8
+Haridwar,Uttarakhand,North,2024,121.6
+Haridwar,Uttarakhand,North,2025,121.5
+Hisar,Haryana,North,2016,172.9
+Hisar,Haryana,North,2017,174.5
+Hisar,Haryana,North,2018,172.4
+Hisar,Haryana,North,2019,178.0
+Hisar,Haryana,North,2020,137.3
+Hisar,Haryana,North,2021,165.9
+Hisar,Haryana,North,2022,174.9
+Hisar,Haryana,North,2023,168.5
+Hisar,Haryana,North,2024,173.7
+Hisar,Haryana,North,2025,178.0
+Howrah,West Bengal,East,2016,161.2
+Howrah,West Bengal,East,2017,162.8
+Howrah,West Bengal,East,2018,157.6
+Howrah,West Bengal,East,2019,155.2
+Howrah,West Bengal,East,2020,126.1
+Howrah,West Bengal,East,2021,152.9
+Howrah,West Bengal,East,2022,153.2
+Howrah,West Bengal,East,2023,155.1
+Howrah,West Bengal,East,2024,152.9
+Howrah,West Bengal,East,2025,155.5
+Hubballi,Karnataka,South,2016,74.2
+Hubballi,Karnataka,South,2017,74.2
+Hubballi,Karnataka,South,2018,73.7
+Hubballi,Karnataka,South,2019,73.7
+Hubballi,Karnataka,South,2020,57.8
+Hubballi,Karnataka,South,2021,66.4
+Hubballi,Karnataka,South,2022,69.9
+Hubballi,Karnataka,South,2023,69.6
+Hubballi,Karnataka,South,2024,69.5
+Hubballi,Karnataka,South,2025,68.7
+Hyderabad,Telangana,South,2016,98.8
+Hyderabad,Telangana,South,2017,99.1
+Hyderabad,Telangana,South,2018,93.6
+Hyderabad,Telangana,South,2019,97.1
+Hyderabad,Telangana,South,2020,77.0
+Hyderabad,Telangana,South,2021,92.9
+Hyderabad,Telangana,South,2022,97.2
+Hyderabad,Telangana,South,2023,95.5
+Hyderabad,Telangana,South,2024,95.7
+Hyderabad,Telangana,South,2025,91.9
+Imphal,Manipur,North-East,2016,85.0
+Imphal,Manipur,North-East,2017,82.2
+Imphal,Manipur,North-East,2018,79.8
+Imphal,Manipur,North-East,2019,81.2
+Imphal,Manipur,North-East,2020,63.8
+Imphal,Manipur,North-East,2021,75.0
+Imphal,Manipur,North-East,2022,82.0
+Imphal,Manipur,North-East,2023,80.2
+Imphal,Manipur,North-East,2024,79.8
+Imphal,Manipur,North-East,2025,81.0
+Indore,Madhya Pradesh,Central,2016,109.6
+Indore,Madhya Pradesh,Central,2017,104.3
+Indore,Madhya Pradesh,Central,2018,103.7
+Indore,Madhya Pradesh,Central,2019,105.1
+Indore,Madhya Pradesh,Central,2020,80.2
+Indore,Madhya Pradesh,Central,2021,97.8
+Indore,Madhya Pradesh,Central,2022,100.7
+Indore,Madhya Pradesh,Central,2023,99.6
+Indore,Madhya Pradesh,Central,2024,97.2
+Indore,Madhya Pradesh,Central,2025,95.8
+Jabalpur,Madhya Pradesh,Central,2016,115.9
+Jabalpur,Madhya Pradesh,Central,2017,117.2
+Jabalpur,Madhya Pradesh,Central,2018,113.7
+Jabalpur,Madhya Pradesh,Central,2019,115.5
+Jabalpur,Madhya Pradesh,Central,2020,91.7
+Jabalpur,Madhya Pradesh,Central,2021,107.1
+Jabalpur,Madhya Pradesh,Central,2022,115.6
+Jabalpur,Madhya Pradesh,Central,2023,113.8
+Jabalpur,Madhya Pradesh,Central,2024,116.2
+Jabalpur,Madhya Pradesh,Central,2025,113.2
+Jaipur,Rajasthan,North-West,2016,152.7
+Jaipur,Rajasthan,North-West,2017,148.8
+Jaipur,Rajasthan,North-West,2018,144.2
+Jaipur,Rajasthan,North-West,2019,145.8
+Jaipur,Rajasthan,North-West,2020,117.1
+Jaipur,Rajasthan,North-West,2021,129.1
+Jaipur,Rajasthan,North-West,2022,145.2
+Jaipur,Rajasthan,North-West,2023,140.8
+Jaipur,Rajasthan,North-West,2024,137.2
+Jaipur,Rajasthan,North-West,2025,142.8
+Jalandhar,Punjab,North,2016,149.3
+Jalandhar,Punjab,North,2017,144.4
+Jalandhar,Punjab,North,2018,143.7
+Jalandhar,Punjab,North,2019,143.8
+Jalandhar,Punjab,North,2020,109.0
+Jalandhar,Punjab,North,2021,132.4
+Jalandhar,Punjab,North,2022,139.8
+Jalandhar,Punjab,North,2023,139.6
+Jalandhar,Punjab,North,2024,136.2
+Jalandhar,Punjab,North,2025,140.8
+Jammu,Jammu & Kashmir,North,2016,110.6
+Jammu,Jammu & Kashmir,North,2017,111.5
+Jammu,Jammu & Kashmir,North,2018,110.2
+Jammu,Jammu & Kashmir,North,2019,109.7
+Jammu,Jammu & Kashmir,North,2020,84.4
+Jammu,Jammu & Kashmir,North,2021,103.8
+Jammu,Jammu & Kashmir,North,2022,111.7
+Jammu,Jammu & Kashmir,North,2023,107.9
+Jammu,Jammu & Kashmir,North,2024,104.2
+Jammu,Jammu & Kashmir,North,2025,103.9
+Jamshedpur,Jharkhand,East,2016,135.4
+Jamshedpur,Jharkhand,East,2017,135.1
+Jamshedpur,Jharkhand,East,2018,131.1
+Jamshedpur,Jharkhand,East,2019,129.5
+Jamshedpur,Jharkhand,East,2020,106.1
+Jamshedpur,Jharkhand,East,2021,122.9
+Jamshedpur,Jharkhand,East,2022,125.8
+Jamshedpur,Jharkhand,East,2023,124.9
+Jamshedpur,Jharkhand,East,2024,126.4
+Jamshedpur,Jharkhand,East,2025,121.0
+Jhansi,Uttar Pradesh,North,2016,141.5
+Jhansi,Uttar Pradesh,North,2017,139.0
+Jhansi,Uttar Pradesh,North,2018,138.5
+Jhansi,Uttar Pradesh,North,2019,134.8
+Jhansi,Uttar Pradesh,North,2020,108.8
+Jhansi,Uttar Pradesh,North,2021,129.8
+Jhansi,Uttar Pradesh,North,2022,135.8
+Jhansi,Uttar Pradesh,North,2023,132.8
+Jhansi,Uttar Pradesh,North,2024,130.2
+Jhansi,Uttar Pradesh,North,2025,126.2
+Jodhpur,Rajasthan,North-West,2016,153.6
+Jodhpur,Rajasthan,North-West,2017,151.7
+Jodhpur,Rajasthan,North-West,2018,145.0
+Jodhpur,Rajasthan,North-West,2019,141.6
+Jodhpur,Rajasthan,North-West,2020,110.6
+Jodhpur,Rajasthan,North-West,2021,135.3
+Jodhpur,Rajasthan,North-West,2022,140.3
+Jodhpur,Rajasthan,North-West,2023,135.0
+Jodhpur,Rajasthan,North-West,2024,140.0
+Jodhpur,Rajasthan,North-West,2025,135.2
+Kannur,Kerala,South,2016,58.2
+Kannur,Kerala,South,2017,56.9
+Kannur,Kerala,South,2018,59.1
+Kannur,Kerala,South,2019,56.9
+Kannur,Kerala,South,2020,44.8
+Kannur,Kerala,South,2021,54.2
+Kannur,Kerala,South,2022,56.2
+Kannur,Kerala,South,2023,57.3
+Kannur,Kerala,South,2024,54.5
+Kannur,Kerala,South,2025,55.7
+Kanpur,Uttar Pradesh,North,2016,209.9
+Kanpur,Uttar Pradesh,North,2017,208.6
+Kanpur,Uttar Pradesh,North,2018,206.6
+Kanpur,Uttar Pradesh,North,2019,202.8
+Kanpur,Uttar Pradesh,North,2020,164.6
+Kanpur,Uttar Pradesh,North,2021,190.1
+Kanpur,Uttar Pradesh,North,2022,209.6
+Kanpur,Uttar Pradesh,North,2023,192.5
+Kanpur,Uttar Pradesh,North,2024,198.2
+Kanpur,Uttar Pradesh,North,2025,203.6
+Karnal,Haryana,North,2016,146.3
+Karnal,Haryana,North,2017,142.3
+Karnal,Haryana,North,2018,150.7
+Karnal,Haryana,North,2019,139.4
+Karnal,Haryana,North,2020,113.0
+Karnal,Haryana,North,2021,132.7
+Karnal,Haryana,North,2022,138.8
+Karnal,Haryana,North,2023,134.6
+Karnal,Haryana,North,2024,132.5
+Karnal,Haryana,North,2025,134.9
+Kashipur,Uttarakhand,North,2016,131.8
+Kashipur,Uttarakhand,North,2017,130.8
+Kashipur,Uttarakhand,North,2018,134.2
+Kashipur,Uttarakhand,North,2019,134.8
+Kashipur,Uttarakhand,North,2020,102.8
+Kashipur,Uttarakhand,North,2021,123.9
+Kashipur,Uttarakhand,North,2022,125.6
+Kashipur,Uttarakhand,North,2023,125.3
+Kashipur,Uttarakhand,North,2024,120.9
+Kashipur,Uttarakhand,North,2025,120.1
+Kochi,Kerala,South,2016,69.4
+Kochi,Kerala,South,2017,68.9
+Kochi,Kerala,South,2018,69.8
+Kochi,Kerala,South,2019,66.5
+Kochi,Kerala,South,2020,52.8
+Kochi,Kerala,South,2021,60.6
+Kochi,Kerala,South,2022,61.8
+Kochi,Kerala,South,2023,60.5
+Kochi,Kerala,South,2024,62.0
+Kochi,Kerala,South,2025,61.2
+Kohima,Nagaland,North-East,2016,66.9
+Kohima,Nagaland,North-East,2017,69.1
+Kohima,Nagaland,North-East,2018,65.3
+Kohima,Nagaland,North-East,2019,63.4
+Kohima,Nagaland,North-East,2020,52.2
+Kohima,Nagaland,North-East,2021,60.7
+Kohima,Nagaland,North-East,2022,63.3
+Kohima,Nagaland,North-East,2023,63.5
+Kohima,Nagaland,North-East,2024,60.4
+Kohima,Nagaland,North-East,2025,61.3
+Kolhapur,Maharashtra,West,2016,93.0
+Kolhapur,Maharashtra,West,2017,85.6
+Kolhapur,Maharashtra,West,2018,86.0
+Kolhapur,Maharashtra,West,2019,87.6
+Kolhapur,Maharashtra,West,2020,68.5
+Kolhapur,Maharashtra,West,2021,81.0
+Kolhapur,Maharashtra,West,2022,86.0
+Kolhapur,Maharashtra,West,2023,82.2
+Kolhapur,Maharashtra,West,2024,87.6
+Kolhapur,Maharashtra,West,2025,84.9
+Kolkata,West Bengal,East,2016,146.6
+Kolkata,West Bengal,East,2017,145.8
+Kolkata,West Bengal,East,2018,143.3
+Kolkata,West Bengal,East,2019,145.1
+Kolkata,West Bengal,East,2020,109.8
+Kolkata,West Bengal,East,2021,135.2
+Kolkata,West Bengal,East,2022,139.5
+Kolkata,West Bengal,East,2023,138.4
+Kolkata,West Bengal,East,2024,136.0
+Kolkata,West Bengal,East,2025,140.3
+Korba,Chhattisgarh,Central,2016,143.0
+Korba,Chhattisgarh,Central,2017,132.8
+Korba,Chhattisgarh,Central,2018,136.4
+Korba,Chhattisgarh,Central,2019,138.2
+Korba,Chhattisgarh,Central,2020,106.1
+Korba,Chhattisgarh,Central,2021,124.4
+Korba,Chhattisgarh,Central,2022,133.8
+Korba,Chhattisgarh,Central,2023,132.9
+Korba,Chhattisgarh,Central,2024,126.8
+Korba,Chhattisgarh,Central,2025,132.1
+Kota,Rajasthan,North-West,2016,133.0
+Kota,Rajasthan,North-West,2017,127.2
+Kota,Rajasthan,North-West,2018,129.4
+Kota,Rajasthan,North-West,2019,125.2
+Kota,Rajasthan,North-West,2020,100.3
+Kota,Rajasthan,North-West,2021,115.4
+Kota,Rajasthan,North-West,2022,125.4
+Kota,Rajasthan,North-West,2023,124.9
+Kota,Rajasthan,North-West,2024,126.0
+Kota,Rajasthan,North-West,2025,124.0
+Kozhikode,Kerala,South,2016,61.0
+Kozhikode,Kerala,South,2017,62.8
+Kozhikode,Kerala,South,2018,62.7
+Kozhikode,Kerala,South,2019,61.0
+Kozhikode,Kerala,South,2020,47.7
+Kozhikode,Kerala,South,2021,53.4
+Kozhikode,Kerala,South,2022,58.1
+Kozhikode,Kerala,South,2023,57.1
+Kozhikode,Kerala,South,2024,55.2
+Kozhikode,Kerala,South,2025,56.2
+Lucknow,Uttar Pradesh,North,2016,190.2
+Lucknow,Uttar Pradesh,North,2017,198.4
+Lucknow,Uttar Pradesh,North,2018,195.8
+Lucknow,Uttar Pradesh,North,2019,187.6
+Lucknow,Uttar Pradesh,North,2020,151.8
+Lucknow,Uttar Pradesh,North,2021,176.3
+Lucknow,Uttar Pradesh,North,2022,190.8
+Lucknow,Uttar Pradesh,North,2023,185.7
+Lucknow,Uttar Pradesh,North,2024,182.7
+Lucknow,Uttar Pradesh,North,2025,182.4
+Ludhiana,Punjab,North,2016,156.8
+Ludhiana,Punjab,North,2017,156.6
+Ludhiana,Punjab,North,2018,155.5
+Ludhiana,Punjab,North,2019,151.1
+Ludhiana,Punjab,North,2020,122.3
+Ludhiana,Punjab,North,2021,145.3
+Ludhiana,Punjab,North,2022,150.3
+Ludhiana,Punjab,North,2023,150.4
+Ludhiana,Punjab,North,2024,150.1
+Ludhiana,Punjab,North,2025,150.8
+Madurai,Tamil Nadu,South,2016,75.7
+Madurai,Tamil Nadu,South,2017,73.8
+Madurai,Tamil Nadu,South,2018,73.2
+Madurai,Tamil Nadu,South,2019,73.5
+Madurai,Tamil Nadu,South,2020,56.8
+Madurai,Tamil Nadu,South,2021,67.2
+Madurai,Tamil Nadu,South,2022,72.8
+Madurai,Tamil Nadu,South,2023,70.2
+Madurai,Tamil Nadu,South,2024,70.2
+Madurai,Tamil Nadu,South,2025,69.5
+Mandi Gobindgarh,Punjab,North,2016,164.1
+Mandi Gobindgarh,Punjab,North,2017,160.8
+Mandi Gobindgarh,Punjab,North,2018,161.3
+Mandi Gobindgarh,Punjab,North,2019,165.2
+Mandi Gobindgarh,Punjab,North,2020,130.2
+Mandi Gobindgarh,Punjab,North,2021,147.8
+Mandi Gobindgarh,Punjab,North,2022,162.4
+Mandi Gobindgarh,Punjab,North,2023,154.2
+Mandi Gobindgarh,Punjab,North,2024,158.8
+Mandi Gobindgarh,Punjab,North,2025,155.1
+Mangaluru,Karnataka,South,2016,66.8
+Mangaluru,Karnataka,South,2017,63.8
+Mangaluru,Karnataka,South,2018,65.8
+Mangaluru,Karnataka,South,2019,65.2
+Mangaluru,Karnataka,South,2020,50.5
+Mangaluru,Karnataka,South,2021,58.5
+Mangaluru,Karnataka,South,2022,63.2
+Mangaluru,Karnataka,South,2023,61.6
+Mangaluru,Karnataka,South,2024,60.8
+Mangaluru,Karnataka,South,2025,59.2
+Meerut,Uttar Pradesh,North,2016,204.2
+Meerut,Uttar Pradesh,North,2017,199.3
+Meerut,Uttar Pradesh,North,2018,198.0
+Meerut,Uttar Pradesh,North,2019,194.6
+Meerut,Uttar Pradesh,North,2020,156.3
+Meerut,Uttar Pradesh,North,2021,183.4
+Meerut,Uttar Pradesh,North,2022,197.7
+Meerut,Uttar Pradesh,North,2023,187.2
+Meerut,Uttar Pradesh,North,2024,190.8
+Meerut,Uttar Pradesh,North,2025,191.8
+Moradabad,Uttar Pradesh,North,2016,187.7
+Moradabad,Uttar Pradesh,North,2017,184.9
+Moradabad,Uttar Pradesh,North,2018,187.1
+Moradabad,Uttar Pradesh,North,2019,184.6
+Moradabad,Uttar Pradesh,North,2020,145.2
+Moradabad,Uttar Pradesh,North,2021,168.7
+Moradabad,Uttar Pradesh,North,2022,184.2
+Moradabad,Uttar Pradesh,North,2023,182.3
+Moradabad,Uttar Pradesh,North,2024,175.8
+Moradabad,Uttar Pradesh,North,2025,175.5
+Mumbai,Maharashtra,West,2016,113.7
+Mumbai,Maharashtra,West,2017,113.6
+Mumbai,Maharashtra,West,2018,108.2
+Mumbai,Maharashtra,West,2019,104.5
+Mumbai,Maharashtra,West,2020,90.0
+Mumbai,Maharashtra,West,2021,102.9
+Mumbai,Maharashtra,West,2022,107.1
+Mumbai,Maharashtra,West,2023,107.9
+Mumbai,Maharashtra,West,2024,112.2
+Mumbai,Maharashtra,West,2025,112.9
+Muzaffarnagar,Uttar Pradesh,North,2016,194.8
+Muzaffarnagar,Uttar Pradesh,North,2017,200.5
+Muzaffarnagar,Uttar Pradesh,North,2018,193.2
+Muzaffarnagar,Uttar Pradesh,North,2019,200.2
+Muzaffarnagar,Uttar Pradesh,North,2020,155.7
+Muzaffarnagar,Uttar Pradesh,North,2021,183.5
+Muzaffarnagar,Uttar Pradesh,North,2022,191.7
+Muzaffarnagar,Uttar Pradesh,North,2023,193.8
+Muzaffarnagar,Uttar Pradesh,North,2024,201.1
+Muzaffarnagar,Uttar Pradesh,North,2025,191.6
+Muzaffarpur,Bihar,East,2016,203.2
+Muzaffarpur,Bihar,East,2017,191.7
+Muzaffarpur,Bihar,East,2018,191.3
+Muzaffarpur,Bihar,East,2019,189.2
+Muzaffarpur,Bihar,East,2020,146.9
+Muzaffarpur,Bihar,East,2021,174.0
+Muzaffarpur,Bihar,East,2022,186.4
+Muzaffarpur,Bihar,East,2023,181.1
+Muzaffarpur,Bihar,East,2024,179.5
+Muzaffarpur,Bihar,East,2025,181.2
+Mysuru,Karnataka,South,2016,64.1
+Mysuru,Karnataka,South,2017,65.0
+Mysuru,Karnataka,South,2018,62.8
+Mysuru,Karnataka,South,2019,61.1
+Mysuru,Karnataka,South,2020,49.8
+Mysuru,Karnataka,South,2021,58.6
+Mysuru,Karnataka,South,2022,60.8
+Mysuru,Karnataka,South,2023,60.1
+Mysuru,Karnataka,South,2024,59.2
+Mysuru,Karnataka,South,2025,56.9
+Nagpur,Maharashtra,Central,2016,119.4
+Nagpur,Maharashtra,Central,2017,118.1
+Nagpur,Maharashtra,Central,2018,119.7
+Nagpur,Maharashtra,Central,2019,116.4
+Nagpur,Maharashtra,Central,2020,90.5
+Nagpur,Maharashtra,Central,2021,105.6
+Nagpur,Maharashtra,Central,2022,114.4
+Nagpur,Maharashtra,Central,2023,111.8
+Nagpur,Maharashtra,Central,2024,108.8
+Nagpur,Maharashtra,Central,2025,109.2
+Naharlagun,Arunachal Pradesh,North-East,2016,63.7
+Naharlagun,Arunachal Pradesh,North-East,2017,61.3
+Naharlagun,Arunachal Pradesh,North-East,2018,60.8
+Naharlagun,Arunachal Pradesh,North-East,2019,58.7
+Naharlagun,Arunachal Pradesh,North-East,2020,46.4
+Naharlagun,Arunachal Pradesh,North-East,2021,56.2
+Naharlagun,Arunachal Pradesh,North-East,2022,58.4
+Naharlagun,Arunachal Pradesh,North-East,2023,58.2
+Naharlagun,Arunachal Pradesh,North-East,2024,56.9
+Naharlagun,Arunachal Pradesh,North-East,2025,54.4
+Nashik,Maharashtra,West,2016,95.1
+Nashik,Maharashtra,West,2017,90.7
+Nashik,Maharashtra,West,2018,92.8
+Nashik,Maharashtra,West,2019,91.7
+Nashik,Maharashtra,West,2020,72.4
+Nashik,Maharashtra,West,2021,86.7
+Nashik,Maharashtra,West,2022,92.7
+Nashik,Maharashtra,West,2023,90.0
+Nashik,Maharashtra,West,2024,88.2
+Nashik,Maharashtra,West,2025,95.2
+Navi Mumbai,Maharashtra,West,2016,113.7
+Navi Mumbai,Maharashtra,West,2017,118.9
+Navi Mumbai,Maharashtra,West,2018,113.5
+Navi Mumbai,Maharashtra,West,2019,113.4
+Navi Mumbai,Maharashtra,West,2020,90.0
+Navi Mumbai,Maharashtra,West,2021,106.7
+Navi Mumbai,Maharashtra,West,2022,110.8
+Navi Mumbai,Maharashtra,West,2023,114.3
+Navi Mumbai,Maharashtra,West,2024,110.8
+Navi Mumbai,Maharashtra,West,2025,114.4
+Noida,Uttar Pradesh,North,2016,221.3
+Noida,Uttar Pradesh,North,2017,212.1
+Noida,Uttar Pradesh,North,2018,217.8
+Noida,Uttar Pradesh,North,2019,222.0
+Noida,Uttar Pradesh,North,2020,172.8
+Noida,Uttar Pradesh,North,2021,197.8
+Noida,Uttar Pradesh,North,2022,211.7
+Noida,Uttar Pradesh,North,2023,209.8
+Noida,Uttar Pradesh,North,2024,213.2
+Noida,Uttar Pradesh,North,2025,209.8
+Pali,Rajasthan,North-West,2016,130.8
+Pali,Rajasthan,North-West,2017,133.1
+Pali,Rajasthan,North-West,2018,125.8
+Pali,Rajasthan,North-West,2019,129.0
+Pali,Rajasthan,North-West,2020,100.7
+Pali,Rajasthan,North-West,2021,124.6
+Pali,Rajasthan,North-West,2022,126.0
+Pali,Rajasthan,North-West,2023,128.9
+Pali,Rajasthan,North-West,2024,126.6
+Pali,Rajasthan,North-West,2025,128.4
+Panaji,Goa,West,2016,66.2
+Panaji,Goa,West,2017,66.7
+Panaji,Goa,West,2018,64.6
+Panaji,Goa,West,2019,66.7
+Panaji,Goa,West,2020,51.3
+Panaji,Goa,West,2021,61.4
+Panaji,Goa,West,2022,62.7
+Panaji,Goa,West,2023,63.5
+Panaji,Goa,West,2024,62.7
+Panaji,Goa,West,2025,64.0
+Panipat,Haryana,North,2016,194.5
+Panipat,Haryana,North,2017,189.0
+Panipat,Haryana,North,2018,185.3
+Panipat,Haryana,North,2019,180.3
+Panipat,Haryana,North,2020,146.2
+Panipat,Haryana,North,2021,168.8
+Panipat,Haryana,North,2022,173.9
+Panipat,Haryana,North,2023,181.3
+Panipat,Haryana,North,2024,181.8
+Panipat,Haryana,North,2025,175.7
+Patiala,Punjab,North,2016,147.2
+Patiala,Punjab,North,2017,144.6
+Patiala,Punjab,North,2018,138.8
+Patiala,Punjab,North,2019,140.1
+Patiala,Punjab,North,2020,108.5
+Patiala,Punjab,North,2021,128.2
+Patiala,Punjab,North,2022,139.6
+Patiala,Punjab,North,2023,135.2
+Patiala,Punjab,North,2024,133.2
+Patiala,Punjab,North,2025,135.2
+Patna,Bihar,East,2016,205.8
+Patna,Bihar,East,2017,198.8
+Patna,Bihar,East,2018,202.4
+Patna,Bihar,East,2019,198.8
+Patna,Bihar,East,2020,153.5
+Patna,Bihar,East,2021,178.2
+Patna,Bihar,East,2022,198.6
+Patna,Bihar,East,2023,189.7
+Patna,Bihar,East,2024,188.2
+Patna,Bihar,East,2025,186.6
+Prayagraj,Uttar Pradesh,North,2016,176.9
+Prayagraj,Uttar Pradesh,North,2017,170.9
+Prayagraj,Uttar Pradesh,North,2018,169.2
+Prayagraj,Uttar Pradesh,North,2019,172.2
+Prayagraj,Uttar Pradesh,North,2020,134.9
+Prayagraj,Uttar Pradesh,North,2021,159.8
+Prayagraj,Uttar Pradesh,North,2022,165.1
+Prayagraj,Uttar Pradesh,North,2023,171.8
+Prayagraj,Uttar Pradesh,North,2024,163.2
+Prayagraj,Uttar Pradesh,North,2025,171.6
+Puducherry,Puducherry,South,2016,65.2
+Puducherry,Puducherry,South,2017,64.1
+Puducherry,Puducherry,South,2018,62.6
+Puducherry,Puducherry,South,2019,64.1
+Puducherry,Puducherry,South,2020,49.7
+Puducherry,Puducherry,South,2021,58.2
+Puducherry,Puducherry,South,2022,62.8
+Puducherry,Puducherry,South,2023,61.5
+Puducherry,Puducherry,South,2024,60.7
+Puducherry,Puducherry,South,2025,62.1
+Pune,Maharashtra,West,2016,101.7
+Pune,Maharashtra,West,2017,102.6
+Pune,Maharashtra,West,2018,96.0
+Pune,Maharashtra,West,2019,97.0
+Pune,Maharashtra,West,2020,78.9
+Pune,Maharashtra,West,2021,90.3
+Pune,Maharashtra,West,2022,95.9
+Pune,Maharashtra,West,2023,94.2
+Pune,Maharashtra,West,2024,93.7
+Pune,Maharashtra,West,2025,95.1
+Purnia,Bihar,East,2016,167.7
+Purnia,Bihar,East,2017,165.4
+Purnia,Bihar,East,2018,162.6
+Purnia,Bihar,East,2019,161.7
+Purnia,Bihar,East,2020,128.9
+Purnia,Bihar,East,2021,152.2
+Purnia,Bihar,East,2022,163.4
+Purnia,Bihar,East,2023,160.3
+Purnia,Bihar,East,2024,163.9
+Purnia,Bihar,East,2025,157.3
+Raipur,Chhattisgarh,Central,2016,134.6
+Raipur,Chhattisgarh,Central,2017,133.8
+Raipur,Chhattisgarh,Central,2018,127.3
+Raipur,Chhattisgarh,Central,2019,130.1
+Raipur,Chhattisgarh,Central,2020,99.8
+Raipur,Chhattisgarh,Central,2021,122.3
+Raipur,Chhattisgarh,Central,2022,128.9
+Raipur,Chhattisgarh,Central,2023,124.1
+Raipur,Chhattisgarh,Central,2024,126.1
+Raipur,Chhattisgarh,Central,2025,121.6
+Rajkot,Gujarat,West,2016,112.8
+Rajkot,Gujarat,West,2017,110.8
+Rajkot,Gujarat,West,2018,109.2
+Rajkot,Gujarat,West,2019,105.6
+Rajkot,Gujarat,West,2020,85.6
+Rajkot,Gujarat,West,2021,98.6
+Rajkot,Gujarat,West,2022,104.8
+Rajkot,Gujarat,West,2023,106.8
+Rajkot,Gujarat,West,2024,102.3
+Rajkot,Gujarat,West,2025,103.7
+Ranchi,Jharkhand,East,2016,118.2
+Ranchi,Jharkhand,East,2017,122.8
+Ranchi,Jharkhand,East,2018,121.0
+Ranchi,Jharkhand,East,2019,118.2
+Ranchi,Jharkhand,East,2020,91.8
+Ranchi,Jharkhand,East,2021,112.2
+Ranchi,Jharkhand,East,2022,116.2
+Ranchi,Jharkhand,East,2023,114.9
+Ranchi,Jharkhand,East,2024,110.4
+Ranchi,Jharkhand,East,2025,114.3
+Rohtak,Haryana,North,2016,177.2
+Rohtak,Haryana,North,2017,179.5
+Rohtak,Haryana,North,2018,175.4
+Rohtak,Haryana,North,2019,173.0
+Rohtak,Haryana,North,2020,135.2
+Rohtak,Haryana,North,2021,156.3
+Rohtak,Haryana,North,2022,169.2
+Rohtak,Haryana,North,2023,159.7
+Rohtak,Haryana,North,2024,162.1
+Rohtak,Haryana,North,2025,163.2
+Rourkela,Odisha,East,2016,127.0
+Rourkela,Odisha,East,2017,123.3
+Rourkela,Odisha,East,2018,124.3
+Rourkela,Odisha,East,2019,127.4
+Rourkela,Odisha,East,2020,97.2
+Rourkela,Odisha,East,2021,113.1
+Rourkela,Odisha,East,2022,123.8
+Rourkela,Odisha,East,2023,120.2
+Rourkela,Odisha,East,2024,117.3
+Rourkela,Odisha,East,2025,118.8
+Rudrapur,Uttarakhand,North,2016,132.8
+Rudrapur,Uttarakhand,North,2017,131.9
+Rudrapur,Uttarakhand,North,2018,135.9
+Rudrapur,Uttarakhand,North,2019,126.2
+Rudrapur,Uttarakhand,North,2020,103.3
+Rudrapur,Uttarakhand,North,2021,121.7
+Rudrapur,Uttarakhand,North,2022,125.7
+Rudrapur,Uttarakhand,North,2023,121.7
+Rudrapur,Uttarakhand,North,2024,121.6
+Rudrapur,Uttarakhand,North,2025,120.8
+Salem,Tamil Nadu,South,2016,77.0
+Salem,Tamil Nadu,South,2017,74.8
+Salem,Tamil Nadu,South,2018,73.4
+Salem,Tamil Nadu,South,2019,71.7
+Salem,Tamil Nadu,South,2020,57.2
+Salem,Tamil Nadu,South,2021,69.3
+Salem,Tamil Nadu,South,2022,72.7
+Salem,Tamil Nadu,South,2023,68.6
+Salem,Tamil Nadu,South,2024,71.6
+Salem,Tamil Nadu,South,2025,70.8
+Shillong,Meghalaya,North-East,2016,61.4
+Shillong,Meghalaya,North-East,2017,64.8
+Shillong,Meghalaya,North-East,2018,61.2
+Shillong,Meghalaya,North-East,2019,62.9
+Shillong,Meghalaya,North-East,2020,48.8
+Shillong,Meghalaya,North-East,2021,56.2
+Shillong,Meghalaya,North-East,2022,61.1
+Shillong,Meghalaya,North-East,2023,59.8
+Shillong,Meghalaya,North-East,2024,57.6
+Shillong,Meghalaya,North-East,2025,58.9
+Shimla,Himachal Pradesh,North,2016,60.5
+Shimla,Himachal Pradesh,North,2017,61.2
+Shimla,Himachal Pradesh,North,2018,61.8
+Shimla,Himachal Pradesh,North,2019,61.7
+Shimla,Himachal Pradesh,North,2020,46.3
+Shimla,Himachal Pradesh,North,2021,57.6
+Shimla,Himachal Pradesh,North,2022,58.2
+Shimla,Himachal Pradesh,North,2023,58.9
+Shimla,Himachal Pradesh,North,2024,59.1
+Shimla,Himachal Pradesh,North,2025,59.9
+Siliguri,West Bengal,East,2016,126.1
+Siliguri,West Bengal,East,2017,123.7
+Siliguri,West Bengal,East,2018,124.9
+Siliguri,West Bengal,East,2019,125.3
+Siliguri,West Bengal,East,2020,97.5
+Siliguri,West Bengal,East,2021,113.2
+Siliguri,West Bengal,East,2022,119.5
+Siliguri,West Bengal,East,2023,121.8
+Siliguri,West Bengal,East,2024,115.3
+Siliguri,West Bengal,East,2025,120.5
+Singrauli,Madhya Pradesh,Central,2016,146.4
+Singrauli,Madhya Pradesh,Central,2017,142.3
+Singrauli,Madhya Pradesh,Central,2018,141.3
+Singrauli,Madhya Pradesh,Central,2019,139.8
+Singrauli,Madhya Pradesh,Central,2020,108.4
+Singrauli,Madhya Pradesh,Central,2021,131.8
+Singrauli,Madhya Pradesh,Central,2022,141.2
+Singrauli,Madhya Pradesh,Central,2023,135.7
+Singrauli,Madhya Pradesh,Central,2024,127.0
+Singrauli,Madhya Pradesh,Central,2025,132.5
+Solapur,Maharashtra,West,2016,99.6
+Solapur,Maharashtra,West,2017,99.2
+Solapur,Maharashtra,West,2018,97.2
+Solapur,Maharashtra,West,2019,98.0
+Solapur,Maharashtra,West,2020,75.7
+Solapur,Maharashtra,West,2021,92.3
+Solapur,Maharashtra,West,2022,98.0
+Solapur,Maharashtra,West,2023,96.8
+Solapur,Maharashtra,West,2024,97.3
+Solapur,Maharashtra,West,2025,96.1
+Sonipat,Haryana,North,2016,190.0
+Sonipat,Haryana,North,2017,186.5
+Sonipat,Haryana,North,2018,187.5
+Sonipat,Haryana,North,2019,177.8
+Sonipat,Haryana,North,2020,140.0
+Sonipat,Haryana,North,2021,168.3
+Sonipat,Haryana,North,2022,179.2
+Sonipat,Haryana,North,2023,175.4
+Sonipat,Haryana,North,2024,174.4
+Sonipat,Haryana,North,2025,168.5
+Srinagar,Jammu & Kashmir,North,2016,87.4
+Srinagar,Jammu & Kashmir,North,2017,88.8
+Srinagar,Jammu & Kashmir,North,2018,84.9
+Srinagar,Jammu & Kashmir,North,2019,84.4
+Srinagar,Jammu & Kashmir,North,2020,67.4
+Srinagar,Jammu & Kashmir,North,2021,80.7
+Srinagar,Jammu & Kashmir,North,2022,84.8
+Srinagar,Jammu & Kashmir,North,2023,84.3
+Srinagar,Jammu & Kashmir,North,2024,83.5
+Srinagar,Jammu & Kashmir,North,2025,81.9
+Surat,Gujarat,West,2016,115.8
+Surat,Gujarat,West,2017,110.3
+Surat,Gujarat,West,2018,112.8
+Surat,Gujarat,West,2019,108.6
+Surat,Gujarat,West,2020,88.2
+Surat,Gujarat,West,2021,104.3
+Surat,Gujarat,West,2022,103.5
+Surat,Gujarat,West,2023,102.0
+Surat,Gujarat,West,2024,100.6
+Surat,Gujarat,West,2025,103.2
+Talcher,Odisha,East,2016,141.6
+Talcher,Odisha,East,2017,139.6
+Talcher,Odisha,East,2018,136.9
+Talcher,Odisha,East,2019,135.1
+Talcher,Odisha,East,2020,104.7
+Talcher,Odisha,East,2021,124.7
+Talcher,Odisha,East,2022,128.0
+Talcher,Odisha,East,2023,129.8
+Talcher,Odisha,East,2024,128.9
+Talcher,Odisha,East,2025,126.7
+Thane,Maharashtra,West,2016,115.2
+Thane,Maharashtra,West,2017,113.5
+Thane,Maharashtra,West,2018,113.2
+Thane,Maharashtra,West,2019,115.8
+Thane,Maharashtra,West,2020,91.1
+Thane,Maharashtra,West,2021,102.9
+Thane,Maharashtra,West,2022,109.6
+Thane,Maharashtra,West,2023,109.1
+Thane,Maharashtra,West,2024,108.0
+Thane,Maharashtra,West,2025,106.6
+Thiruvananthapuram,Kerala,South,2016,61.5
+Thiruvananthapuram,Kerala,South,2017,60.8
+Thiruvananthapuram,Kerala,South,2018,57.2
+Thiruvananthapuram,Kerala,South,2019,59.7
+Thiruvananthapuram,Kerala,South,2020,46.3
+Thiruvananthapuram,Kerala,South,2021,55.1
+Thiruvananthapuram,Kerala,South,2022,56.8
+Thiruvananthapuram,Kerala,South,2023,57.6
+Thiruvananthapuram,Kerala,South,2024,56.1
+Thiruvananthapuram,Kerala,South,2025,55.8
+Tiruchirappalli,Tamil Nadu,South,2016,68.8
+Tiruchirappalli,Tamil Nadu,South,2017,70.5
+Tiruchirappalli,Tamil Nadu,South,2018,68.9
+Tiruchirappalli,Tamil Nadu,South,2019,69.7
+Tiruchirappalli,Tamil Nadu,South,2020,54.3
+Tiruchirappalli,Tamil Nadu,South,2021,62.4
+Tiruchirappalli,Tamil Nadu,South,2022,70.0
+Tiruchirappalli,Tamil Nadu,South,2023,67.8
+Tiruchirappalli,Tamil Nadu,South,2024,67.9
+Tiruchirappalli,Tamil Nadu,South,2025,68.8
+Tirupati,Andhra Pradesh,South,2016,78.2
+Tirupati,Andhra Pradesh,South,2017,77.8
+Tirupati,Andhra Pradesh,South,2018,74.3
+Tirupati,Andhra Pradesh,South,2019,75.9
+Tirupati,Andhra Pradesh,South,2020,60.0
+Tirupati,Andhra Pradesh,South,2021,69.9
+Tirupati,Andhra Pradesh,South,2022,75.5
+Tirupati,Andhra Pradesh,South,2023,74.7
+Tirupati,Andhra Pradesh,South,2024,75.6
+Tirupati,Andhra Pradesh,South,2025,76.5
+Udaipur,Rajasthan,North-West,2016,114.1
+Udaipur,Rajasthan,North-West,2017,113.1
+Udaipur,Rajasthan,North-West,2018,112.9
+Udaipur,Rajasthan,North-West,2019,107.7
+Udaipur,Rajasthan,North-West,2020,88.7
+Udaipur,Rajasthan,North-West,2021,99.0
+Udaipur,Rajasthan,North-West,2022,109.8
+Udaipur,Rajasthan,North-West,2023,106.9
+Udaipur,Rajasthan,North-West,2024,105.8
+Udaipur,Rajasthan,North-West,2025,102.5
+Ujjain,Madhya Pradesh,Central,2016,116.8
+Ujjain,Madhya Pradesh,Central,2017,112.5
+Ujjain,Madhya Pradesh,Central,2018,113.2
+Ujjain,Madhya Pradesh,Central,2019,110.1
+Ujjain,Madhya Pradesh,Central,2020,90.8
+Ujjain,Madhya Pradesh,Central,2021,104.7
+Ujjain,Madhya Pradesh,Central,2022,108.8
+Ujjain,Madhya Pradesh,Central,2023,112.3
+Ujjain,Madhya Pradesh,Central,2024,108.7
+Ujjain,Madhya Pradesh,Central,2025,108.8
+Vadodara,Gujarat,West,2016,114.8
+Vadodara,Gujarat,West,2017,112.0
+Vadodara,Gujarat,West,2018,109.4
+Vadodara,Gujarat,West,2019,111.8
+Vadodara,Gujarat,West,2020,88.2
+Vadodara,Gujarat,West,2021,102.8
+Vadodara,Gujarat,West,2022,107.1
+Vadodara,Gujarat,West,2023,106.1
+Vadodara,Gujarat,West,2024,104.3
+Vadodara,Gujarat,West,2025,105.8
+Vapi,Gujarat,West,2016,130.8
+Vapi,Gujarat,West,2017,123.8
+Vapi,Gujarat,West,2018,129.0
+Vapi,Gujarat,West,2019,124.0
+Vapi,Gujarat,West,2020,97.8
+Vapi,Gujarat,West,2021,114.5
+Vapi,Gujarat,West,2022,124.4
+Vapi,Gujarat,West,2023,124.4
+Vapi,Gujarat,West,2024,121.9
+Vapi,Gujarat,West,2025,124.2
+Varanasi,Uttar Pradesh,North,2016,182.9
+Varanasi,Uttar Pradesh,North,2017,183.1
+Varanasi,Uttar Pradesh,North,2018,180.7
+Varanasi,Uttar Pradesh,North,2019,175.9
+Varanasi,Uttar Pradesh,North,2020,139.2
+Varanasi,Uttar Pradesh,North,2021,168.7
+Varanasi,Uttar Pradesh,North,2022,174.5
+Varanasi,Uttar Pradesh,North,2023,176.5
+Varanasi,Uttar Pradesh,North,2024,173.1
+Varanasi,Uttar Pradesh,North,2025,174.8
+Vijayawada,Andhra Pradesh,South,2016,94.7
+Vijayawada,Andhra Pradesh,South,2017,92.8
+Vijayawada,Andhra Pradesh,South,2018,91.2
+Vijayawada,Andhra Pradesh,South,2019,90.2
+Vijayawada,Andhra Pradesh,South,2020,72.2
+Vijayawada,Andhra Pradesh,South,2021,85.2
+Vijayawada,Andhra Pradesh,South,2022,90.8
+Vijayawada,Andhra Pradesh,South,2023,87.8
+Vijayawada,Andhra Pradesh,South,2024,88.3
+Vijayawada,Andhra Pradesh,South,2025,90.2
+Visakhapatnam,Andhra Pradesh,South,2016,100.5
+Visakhapatnam,Andhra Pradesh,South,2017,99.0
+Visakhapatnam,Andhra Pradesh,South,2018,100.4
+Visakhapatnam,Andhra Pradesh,South,2019,98.2
+Visakhapatnam,Andhra Pradesh,South,2020,76.4
+Visakhapatnam,Andhra Pradesh,South,2021,90.9
+Visakhapatnam,Andhra Pradesh,South,2022,99.6
+Visakhapatnam,Andhra Pradesh,South,2023,98.0
+Visakhapatnam,Andhra Pradesh,South,2024,94.9
+Visakhapatnam,Andhra Pradesh,South,2025,97.2
+Warangal,Telangana,South,2016,84.4
+Warangal,Telangana,South,2017,83.7
+Warangal,Telangana,South,2018,83.8
+Warangal,Telangana,South,2019,83.7
+Warangal,Telangana,South,2020,63.8
+Warangal,Telangana,South,2021,75.9
+Warangal,Telangana,South,2022,82.4
+Warangal,Telangana,South,2023,79.3
+Warangal,Telangana,South,2024,78.5
+Warangal,Telangana,South,2025,78.7
+Yamunanagar,Haryana,North,2016,155.5
+Yamunanagar,Haryana,North,2017,152.3
+Yamunanagar,Haryana,North,2018,158.8
+Yamunanagar,Haryana,North,2019,152.8
+Yamunanagar,Haryana,North,2020,122.8
+Yamunanagar,Haryana,North,2021,140.9
+Yamunanagar,Haryana,North,2022,152.2
+Yamunanagar,Haryana,North,2023,149.7
+Yamunanagar,Haryana,North,2024,153.8
+Yamunanagar,Haryana,North,2025,153.8
